@@ -1,7 +1,8 @@
 # paste
 Executable and installation notes are in 7z file. Help notes are inside the application itself.
 
-Installation
+INSTALLATION
+
 #########################################################
 
 1) First, please put program folder in your final location
@@ -14,6 +15,7 @@ Change these in \HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\.NETFramework\Security\Tr
 Strings:Internet,MyComputer,LocalInternet,Trusted sites values to Enabled
 
 HELP
+
 #########################################################
 
 - Use at your own risk.
@@ -25,7 +27,8 @@ HELP
 Attention1: Sometimes some letter may be lost due to system / network performance. 
 Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
 
-Version information
+VERSION INFORMATION
+
 #########################################################
 
 Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
