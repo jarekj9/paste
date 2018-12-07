@@ -11,8 +11,8 @@ INSTALLATION
 
 If there is security problem with installation on windows 10:
 Error like 'Administrator has blocked this program...'
-Change these in \HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel 
-Strings:Internet,MyComputer,LocalInternet,Trusted sites values to Enabled
+Go to regedit \HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\.NETFramework\Security\TrustManager\PromptingLevel 
+and change Strings:Internet,MyComputer,LocalInternet,Trusted sites : values to Enabled
 
 HELP
 
