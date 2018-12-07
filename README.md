@@ -24,13 +24,13 @@ HELP
 - With 'Second clipboard' enabled: Ctrl2 to move text from clipboard to second clipboard, Ctrl3 to paste from Second clipboard 
 - You may put config file 'paste_config.txt' in C:\Paste\ folder to load some settings automatically.
 
-Attention1: Sometimes some letter may be lost due to system / network performance. 
-Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
+- Attention1: Sometimes some letter may be lost due to system / network performance. 
+- Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
 
 VERSION INFORMATION
 
 #########################################################
 
-Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
-Version 1.5 - added capability to minimize into system tray
-In case of questions contact me at jaroslaw.jankun@gmail.com
+- Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
+- Version 1.5 - added capability to minimize into system tray
+- In case of questions contact me at jaroslaw.jankun@gmail.com
