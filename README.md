@@ -34,3 +34,6 @@ VERSION INFORMATION
 - Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
 - Version 1.5 - added capability to minimize into system tray
 - In case of questions contact me at jaroslaw.jankun@gmail.com
+
+Known issues: 
+-on windows 7, if config file is used to start program in system tray, program will still be present in taskbar, but not 'clickable', need to open it from tray then and click hide
