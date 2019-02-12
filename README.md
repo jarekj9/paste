@@ -2,7 +2,6 @@
 Executable and installation notes are in 7z file. Help notes are inside the application itself.
 
 INSTALLATION
-
 #########################################################
 
 1) First, please put program folder in your final location
@@ -15,7 +14,6 @@ Go to regedit \HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\.NETFramework\Security\Trus
 and change Strings:Internet,MyComputer,LocalInternet,Trusted sites : values to Enabled
 
 HELP
-
 #########################################################
 
 - Use at your own risk.
@@ -28,7 +26,6 @@ HELP
 - Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
 
 VERSION INFORMATION
-
 #########################################################
 
 - Version 1.61 - changed behaviour of second clipboard
