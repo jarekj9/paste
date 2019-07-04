@@ -30,7 +30,7 @@ HELP
 VERSION INFORMATION
 
 #########################################################
-
+- Version 1.62 - fixed option to 'hide in tray' with conf file (but there is a bug in Windows7)
 - Version 1.61 - changed behaviour of second clipboard
 - Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
 - Version 1.5 - added capability to minimize into system tray
