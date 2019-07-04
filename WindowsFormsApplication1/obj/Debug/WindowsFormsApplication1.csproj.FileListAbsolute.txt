@@ -1,0 +1,79 @@
+c:\users\x\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\x\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\x\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\x\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.config
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.manifest
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.application
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.pdb
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe.manifest
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.application
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe
+C:\Users\X\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.pdb
+C:\Users\X\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.dll
+C:\Users\X\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.pdb
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.config
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.pdb
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.manifest
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.application
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.pdb
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.dll
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.pdb
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe.manifest
+C:\Users\a184287\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.application
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.config
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.pdb
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.manifest
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.application
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.pdb
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.dll
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HotkeyLib.pdb
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe.manifest
+C:\inne\skrypty\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.application
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.config
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.manifest
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.application
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.pdb
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\HotkeyLib.dll
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\HotkeyLib.pdb
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe.manifest
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.application
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.pdb
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\pliki\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.config
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe.manifest
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.application
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.exe
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\paste! by JarekJ.pdb
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\HotkeyLib.dll
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\bin\Debug\HotkeyLib.pdb
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe.manifest
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.application
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.exe
+C:\inne\skrypty\Visual Studio 2015\Projects\paste\WindowsFormsApplication1\obj\Debug\paste! by JarekJ.pdb

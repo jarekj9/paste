@@ -1,0 +1,5 @@
+###File needs to be in C:\Paste\ folder if you need to use it
+StartInTray=no
+EnableSecondClipboard=no
+###Use only CTRL+1, CTRL+space, CTRL+5, CTRL+" :
+PasteHotKey=CTRL+1
