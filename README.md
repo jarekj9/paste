@@ -27,9 +27,12 @@ HELP
 - Attention1: Sometimes some letter may be lost due to system / network performance. 
 - Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
 
+There is also AutoIT version of the program (Paste_autoIT.7z. It starts in tray. Clicking on tray will pause the appplication. With right-click it can be resumed. It pastes clipboard with ctrl+1 and it has second 'pause mechanism' with F9 key. It may have some bugs.
+
 VERSION INFORMATION
 
 #########################################################
+- Added 'AutoIT' version  of Paste v0.9
 - Version 1.62 - fixed option to 'hide in tray' with conf file (but there is a bug in Windows7)
 - Version 1.61 - changed behaviour of second clipboard
 - Version 1.6 - added 'second clipboard' and possiblitity to load some settings from config file
