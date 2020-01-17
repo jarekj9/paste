@@ -27,7 +27,7 @@ HELP
 - Attention1: Sometimes some letter may be lost due to system / network performance. 
 - Attention2: Sometimes the destination, where you type, may recognize certain quick keypresses as its own shortcuts / hotkeys. (for example : better disable 'autocomplete' in notepad++ if you paste into notepad++ ). 
 
-There is also AutoIT version of the program (Paste_autoIT.7z. It starts in tray. Clicking on tray will pause the appplication. With right-click it can be resumed. It pastes clipboard with ctrl+1 and it has second 'pause mechanism' with F9 key. It may have some bugs.
+There is also AutoIT version of the program (Paste_autoIT0.9.7z). Thatone starts in tray. Clicking on tray will pause the appplication. With right-click it can be resumed. It pastes clipboard with ctrl+1 and it has second 'pause mechanism' with F9 key. That version may have some bugs.
 
 VERSION INFORMATION
 
