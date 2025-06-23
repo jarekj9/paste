@@ -28,264 +28,286 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.button1 = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
-            this.TrayButton = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.SecClipLabel = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.groupBox1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            this.SuspendLayout();
+            button1 = new System.Windows.Forms.Button();
+            label4 = new System.Windows.Forms.Label();
+            button2 = new System.Windows.Forms.Button();
+            button3 = new System.Windows.Forms.Button();
+            button4 = new System.Windows.Forms.Button();
+            button5 = new System.Windows.Forms.Button();
+            label3 = new System.Windows.Forms.Label();
+            textBox1 = new System.Windows.Forms.TextBox();
+            label6 = new System.Windows.Forms.Label();
+            label7 = new System.Windows.Forms.Label();
+            notifyIcon1 = new System.Windows.Forms.NotifyIcon(components);
+            TrayButton = new System.Windows.Forms.Button();
+            button6 = new System.Windows.Forms.Button();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            checkBox1 = new System.Windows.Forms.CheckBox();
+            SecClipLabel = new System.Windows.Forms.Label();
+            groupBox1 = new System.Windows.Forms.GroupBox();
+            label2 = new System.Windows.Forms.Label();
+            groupBox2 = new System.Windows.Forms.GroupBox();
+            label1 = new System.Windows.Forms.Label();
+            linkLabel1 = new System.Windows.Forms.LinkLabel();
+            groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
+            SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(8, 6);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(76, 39);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "PASTE";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Location = new System.Drawing.Point(9, 7);
+            button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button1.Name = "button1";
+            button1.Size = new System.Drawing.Size(89, 45);
+            button1.TabIndex = 0;
+            button1.Text = "PASTE";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 161);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(136, 13);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Hotkey CTRL+1 registered.";
+            label4.AutoSize = true;
+            label4.Location = new System.Drawing.Point(7, 186);
+            label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label4.Name = "label4";
+            label4.Size = new System.Drawing.Size(148, 15);
+            label4.TabIndex = 4;
+            label4.Text = "Hotkey CTRL+1 registered.";
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(52, 32);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(129, 23);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "Register CTRL+1";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            button2.Location = new System.Drawing.Point(61, 37);
+            button2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button2.Name = "button2";
+            button2.Size = new System.Drawing.Size(150, 27);
+            button2.TabIndex = 8;
+            button2.Text = "Register CTRL+1";
+            button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(51, 116);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(129, 23);
-            this.button3.TabIndex = 9;
-            this.button3.Text = "Register CTRL+5";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            button3.Location = new System.Drawing.Point(59, 134);
+            button3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button3.Name = "button3";
+            button3.Size = new System.Drawing.Size(150, 27);
+            button3.TabIndex = 9;
+            button3.Text = "Register CTRL+5";
+            button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(51, 61);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(129, 23);
-            this.button4.TabIndex = 10;
-            this.button4.Text = "Register CTRL+\"";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            button4.Location = new System.Drawing.Point(59, 70);
+            button4.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button4.Name = "button4";
+            button4.Size = new System.Drawing.Size(150, 27);
+            button4.TabIndex = 10;
+            button4.Text = "Register CTRL+[";
+            button4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(51, 90);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(129, 23);
-            this.button5.TabIndex = 11;
-            this.button5.Text = "Register CTRL+space";
-            this.button5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            button5.Location = new System.Drawing.Point(59, 104);
+            button5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button5.Name = "button5";
+            button5.Size = new System.Drawing.Size(150, 27);
+            button5.TabIndex = 11;
+            button5.Text = "Register CTRL+space";
+            button5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 184);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(110, 13);
-            this.label3.TabIndex = 12;
-            this.label3.Text = "Delay between chars:";
+            label3.AutoSize = true;
+            label3.Location = new System.Drawing.Point(7, 212);
+            label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label3.Name = "label3";
+            label3.Size = new System.Drawing.Size(118, 15);
+            label3.TabIndex = 12;
+            label3.Text = "Delay between chars:";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(114, 181);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(45, 20);
-            this.textBox1.TabIndex = 13;
-            this.textBox1.Text = "2";
+            textBox1.Location = new System.Drawing.Point(133, 209);
+            textBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new System.Drawing.Size(52, 23);
+            textBox1.TabIndex = 13;
+            textBox1.Text = "2";
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 16);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(94, 13);
-            this.label6.TabIndex = 14;
-            this.label6.Text = "Change hotkey to:";
+            label6.AutoSize = true;
+            label6.Location = new System.Drawing.Point(7, 18);
+            label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label6.Name = "label6";
+            label6.Size = new System.Drawing.Size(104, 15);
+            label6.TabIndex = 14;
+            label6.Text = "Change hotkey to:";
             // 
             // label7
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(160, 184);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(20, 13);
-            this.label7.TabIndex = 15;
-            this.label7.Text = "ms";
+            label7.AutoSize = true;
+            label7.Location = new System.Drawing.Point(187, 212);
+            label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label7.Name = "label7";
+            label7.Size = new System.Drawing.Size(23, 15);
+            label7.TabIndex = 15;
+            label7.Text = "ms";
             // 
             // notifyIcon1
             // 
-            this.notifyIcon1.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info;
-            this.notifyIcon1.BalloonTipText = "I\'m here";
-            this.notifyIcon1.BalloonTipTitle = "paste!";
-            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "paste!";
+            notifyIcon1.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info;
+            notifyIcon1.BalloonTipText = "I'm here";
+            notifyIcon1.BalloonTipTitle = "paste!";
+            notifyIcon1.Icon = (System.Drawing.Icon)resources.GetObject("notifyIcon1.Icon");
+            notifyIcon1.Text = "paste!";
             // 
             // TrayButton
             // 
-            this.TrayButton.Location = new System.Drawing.Point(8, 98);
-            this.TrayButton.Name = "TrayButton";
-            this.TrayButton.Size = new System.Drawing.Size(76, 39);
-            this.TrayButton.TabIndex = 16;
-            this.TrayButton.Text = "Hide to System Tray";
-            this.TrayButton.UseVisualStyleBackColor = true;
-            this.TrayButton.Click += new System.EventHandler(this.TrayButton_Click);
+            TrayButton.Location = new System.Drawing.Point(9, 113);
+            TrayButton.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            TrayButton.Name = "TrayButton";
+            TrayButton.Size = new System.Drawing.Size(89, 45);
+            TrayButton.TabIndex = 16;
+            TrayButton.Text = "Hide to System Tray";
+            TrayButton.UseVisualStyleBackColor = true;
+            TrayButton.Click += TrayButton_Click;
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(8, 52);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(76, 38);
-            this.button6.TabIndex = 17;
-            this.button6.Text = "HELP";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            button6.Location = new System.Drawing.Point(9, 60);
+            button6.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            button6.Name = "button6";
+            button6.Size = new System.Drawing.Size(89, 44);
+            button6.TabIndex = 17;
+            button6.Text = "HELP";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // checkBox1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(5, 21);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(143, 17);
-            this.checkBox1.TabIndex = 18;
-            this.checkBox1.Text = "Enable second clipboard";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_Clicked);
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new System.Drawing.Point(6, 24);
+            checkBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new System.Drawing.Size(155, 19);
+            checkBox1.TabIndex = 18;
+            checkBox1.Text = "Enable second clipboard";
+            checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_Clicked;
             // 
             // SecClipLabel
             // 
-            this.SecClipLabel.AutoSize = true;
-            this.SecClipLabel.Location = new System.Drawing.Point(3, 56);
-            this.SecClipLabel.Name = "SecClipLabel";
-            this.SecClipLabel.Size = new System.Drawing.Size(181, 13);
-            this.SecClipLabel.TabIndex = 19;
-            this.SecClipLabel.Text = "CTRL+2 and CTRL+3 not registered.";
+            SecClipLabel.AutoSize = true;
+            SecClipLabel.Location = new System.Drawing.Point(4, 65);
+            SecClipLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            SecClipLabel.Name = "SecClipLabel";
+            SecClipLabel.Size = new System.Drawing.Size(196, 15);
+            SecClipLabel.TabIndex = 19;
+            SecClipLabel.Text = "CTRL+2 and CTRL+3 not registered.";
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Controls.Add(this.checkBox1);
-            this.groupBox1.Controls.Add(this.SecClipLabel);
-            this.groupBox1.Location = new System.Drawing.Point(108, 233);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(195, 81);
-            this.groupBox1.TabIndex = 20;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Second Clipboard";
+            groupBox1.BackColor = System.Drawing.SystemColors.ScrollBar;
+            groupBox1.Controls.Add(label2);
+            groupBox1.Controls.Add(checkBox1);
+            groupBox1.Controls.Add(SecClipLabel);
+            groupBox1.Location = new System.Drawing.Point(126, 269);
+            groupBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox1.Size = new System.Drawing.Size(227, 108);
+            groupBox1.TabIndex = 20;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Second Clipboard";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(2, 41);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(40, 13);
-            this.label2.TabIndex = 23;
-            this.label2.Text = "Status:";
+            label2.AutoSize = true;
+            label2.Location = new System.Drawing.Point(2, 47);
+            label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label2.Name = "label2";
+            label2.Size = new System.Drawing.Size(42, 15);
+            label2.TabIndex = 23;
+            label2.Text = "Status:";
             // 
             // groupBox2
             // 
-            this.groupBox2.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Controls.Add(this.label6);
-            this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Controls.Add(this.button2);
-            this.groupBox2.Controls.Add(this.button4);
-            this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Controls.Add(this.button5);
-            this.groupBox2.Controls.Add(this.textBox1);
-            this.groupBox2.Controls.Add(this.button3);
-            this.groupBox2.Controls.Add(this.label3);
-            this.groupBox2.Location = new System.Drawing.Point(108, 6);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(195, 210);
-            this.groupBox2.TabIndex = 21;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Pasting settings";
+            groupBox2.BackColor = System.Drawing.SystemColors.ScrollBar;
+            groupBox2.Controls.Add(label1);
+            groupBox2.Controls.Add(label6);
+            groupBox2.Controls.Add(label4);
+            groupBox2.Controls.Add(button2);
+            groupBox2.Controls.Add(button4);
+            groupBox2.Controls.Add(label7);
+            groupBox2.Controls.Add(button5);
+            groupBox2.Controls.Add(textBox1);
+            groupBox2.Controls.Add(button3);
+            groupBox2.Controls.Add(label3);
+            groupBox2.Location = new System.Drawing.Point(126, 7);
+            groupBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Padding = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            groupBox2.Size = new System.Drawing.Size(227, 242);
+            groupBox2.TabIndex = 21;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Pasting settings";
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 147);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 13);
-            this.label1.TabIndex = 22;
-            this.label1.Text = "Status:";
+            label1.AutoSize = true;
+            label1.Location = new System.Drawing.Point(7, 170);
+            label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            label1.Name = "label1";
+            label1.Size = new System.Drawing.Size(42, 15);
+            label1.TabIndex = 22;
+            label1.Text = "Status:";
             // 
             // linkLabel1
             // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(5, 319);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(162, 13);
-            this.linkLabel1.TabIndex = 22;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://github.com/jarekj9/paste";
-            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            linkLabel1.AutoSize = true;
+            linkLabel1.Location = new System.Drawing.Point(6, 379);
+            linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new System.Drawing.Size(181, 15);
+            linkLabel1.TabIndex = 22;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "https://github.com/jarekj9/paste";
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(311, 337);
-            this.Controls.Add(this.linkLabel1);
-            this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.TrayButton);
-            this.Controls.Add(this.button1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
-            this.Text = "paste! v1.62 by Jaroslaw Jankun";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.SystemColors.Control;
+            ClientSize = new System.Drawing.Size(363, 399);
+            Controls.Add(linkLabel1);
+            Controls.Add(groupBox2);
+            Controls.Add(groupBox1);
+            Controls.Add(button6);
+            Controls.Add(TrayButton);
+            Controls.Add(button1);
+            FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
+            Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            Name = "Form1";
+            Text = "paste! v1.62 by Jaroslaw Jankun";
+            Load += Form1_Load;
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
 
         }
 
