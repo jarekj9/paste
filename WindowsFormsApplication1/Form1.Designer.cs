@@ -300,7 +300,7 @@
             Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             Name = "Form1";
-            Text = "paste! v1.62 by Jaroslaw Jankun";
+            Text = "paste! v2.0 by Jaroslaw Jankun";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
