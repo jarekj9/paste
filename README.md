@@ -32,6 +32,7 @@ There is also AutoIT version of the program (Paste_autoIT0.9.7z). Thatone starts
 VERSION INFORMATION
 
 #########################################################
+- Version 2.0, 23.06.2025 - upgraded project from .net framework to .net8
 - Added 'AutoIT' version  of Paste - v0.9
 - Version 1.62 - fixed option to 'hide in tray' with conf file (but there is a bug in Windows7)
 - Version 1.61 - changed behaviour of second clipboard
